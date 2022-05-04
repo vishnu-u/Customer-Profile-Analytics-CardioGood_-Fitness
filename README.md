@@ -14,4 +14,4 @@
 <br>
 Perform descriptive analytics to create a customer profile for each CardioGood Fitness treadmill product line.
 <br>
-<i>Note : </i>Description sourced from Kaggle</p>
+<i>Note : Description sourced from <a href="https://www.kaggle.com/datasets/saurav9786/cardiogoodfitness">Kaggle</a></li></p>
